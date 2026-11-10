@@ -34,7 +34,7 @@ Uso manual: copiar solo la plantilla requerida al destino que se haya acordado, 
 
 El [modelo mínimo de iniciativa](docs/initiative-model.md) precisa la información del [primer recorrido Cellar–Blends](https://github.com/denispaiva/vcx/blob/main/docs/superpowers/specs/2026-10-30-cellar-blends-first-journey-design.md). Es una propuesta para revisar; las plantillas actuales aún no implementan todos esos campos o condiciones.
 
-La propuesta de idea usa su plantilla específica durante el [ingreso](https://github.com/denispaiva/vcx/blob/main/blends/docs/idea-intake.md). El registro en Cellar ocurre después de revisar el reporte del consejo y recibir la confirmación humana; un borrador aún no aceptado no figura como iniciativa activa, aunque se custodie, y puede prepararse sin haber elegido todavía la instancia de destino.
+La propuesta de idea usa su plantilla específica durante el [ingreso](https://github.com/denispaiva/blends/blob/main/docs/idea-intake.md). El registro en Cellar ocurre después de revisar el reporte del consejo y recibir la confirmación humana; un borrador aún no aceptado no figura como iniciativa activa, aunque se custodie, y puede prepararse sin haber elegido todavía la instancia de destino.
 
 Esta carpeta contiene la definición del producto y las plantillas; [`solera`](https://github.com/denispaiva/solera) es la instancia de este workspace, en su propio repositorio privado desde el 2026-11-09 (VCX-D063); VCX-D009 y VCX-D053 fijan su nombre, propietario y ubicación.
 
