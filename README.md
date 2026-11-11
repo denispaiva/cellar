@@ -59,3 +59,7 @@ La autoridad sobre propósito y decisiones concretas debe asignarse explícitame
 Alinear las plantillas de Cellar e iniciativa con el modelo mínimo mediante un caso sintético, antes de implementar almacenamiento. Se considerará aceptable cuando permita representar identidad estable, procedencia, revisiones, decisiones y referencias de ingreso y graduación, separando ciclo de vida y estado de trabajo, con una única fuente activa por dato.
 
 Este entregable requiere un alcance posterior: no se ejecuta por la curación de esta entrada. El modelo y los contratos conservan su condición de propuestas. El código de cada proyecto vive en su propio repositorio, según VCX-D029; las decisiones sobre primera instancia y propiedad canónica se mantienen en el registro compartido, sin listas de estado paralelas.
+
+## Licencia
+
+MIT. Ver [LICENSE](LICENSE).
